@@ -166,3 +166,54 @@
 [submodule "mods/planet_moon"]
 	path = mods/planet_moon
 	url = https://github.com/pandorabox-io/planet_moon
+[submodule "mods/playtime"]
+	path = mods/playtime
+	url = https://github.com/Lejo1/playtime
+[submodule "mods/wieldview"]
+	path = mods/wieldview
+	url = https://bitbucket.org/sorcerykid/wieldview.git
+[submodule "mods/hbsprint"]
+	path = mods/hbsprint
+	url = https://github.com/minetest-mods/hbsprint
+[submodule "mods/fancy_vend"]
+	path = mods/fancy_vend
+	url = https://github.com/ChimneySwift/fancy_vend
+[submodule "mods/mg"]
+	path = mods/mg
+	url = https://github.com/minetest-mods/mg
+[submodule "mods/jeans_economy"]
+	path = mods/jeans_economy
+	url = https://github.com/Jean28518/jeans_economy
+[submodule "mods/jeans_economy_physical"]
+	path = mods/jeans_economy_physical
+	url = https://github.com/AFCMS/jeans_economy_physical
+[submodule "mods/hammermod"]
+	path = mods/hammermod
+	url = https://github.com/cultom/hammermod
+[submodule "mods/anvil"]
+	path = mods/anvil
+	url = https://github.com/minetest-mods/anvil
+[submodule "mods/airtanks"]
+	path = mods/airtanks
+	url = https://github.com/minetest-mods/airtanks
+[submodule "mods/fireworkz"]
+	path = mods/fireworkz
+	url = https://github.com/runsy/fireworkz
+[submodule "mods/slats"]
+	path = mods/slats
+	url = https://github.com/v-rob/slats
+[submodule "mods/sponge"]
+	path = mods/sponge
+	url = https://github.com/BenjieFiftysix/sponge
+[submodule "mods/craftable_lava"]
+	path = mods/craftable_lava
+	url = https://github.com/MikeRedwood/craftable_lava
+[submodule "mods/prefab"]
+	path = mods/prefab
+	url = https://github.com/mt-mods/prefab
+[submodule "mods/we_undo"]
+	path = mods/we_undo
+	url = https://github.com/HybridDog/we_undo
+[submodule "mods/quartz"]
+	path = mods/quartz
+	url = https://github.com/minetest-mods/quartz
