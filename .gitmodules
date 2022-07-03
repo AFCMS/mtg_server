@@ -145,3 +145,9 @@
 [submodule "mods/farming_nextgen"]
 	path = mods/farming_nextgen
 	url = https://github.com/berengma/farming_nextgen
+[submodule "mods/minetest-hangglider"]
+	path = mods/minetest-hangglider
+	url = https://notabug.org/Piezo_/minetest-hangglider
+[submodule "mods/bonemeal"]
+	path = mods/bonemeal
+	url = https://notabug.org/tenplus1/bonemeal
