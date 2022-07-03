@@ -109,9 +109,6 @@
 [submodule "mods/digiscreen"]
 	path = mods/digiscreen
 	url = https://cheapiesystems.com/git/digiscreen/
-[submodule "mods/streets"]
-	path = mods/streets
-	url = https://github.com/minetest-mods/streets
 [submodule "mods/void_chest"]
 	path = mods/void_chest
 	url = https://notabug.org/MeseCraft/void_chest
@@ -259,3 +256,18 @@
 [submodule "mods/display_modpack"]
 	path = mods/display_modpack
 	url = https://github.com/pyrollo/display_modpack
+[submodule "mods/melterns"]
+	path = mods/melterns
+	url = https://gitlab.icynet.eu/evert/melterns
+[submodule "mods/televator"]
+	path = mods/televator
+	url = https://github.com/octacian/televator
+[submodule "mods/vehicles"]
+	path = mods/vehicles
+	url = https://github.com/D00Med/vehicles
+[submodule "mods/roads"]
+	path = mods/roads
+	url = https://cheapiesystems.com/git/roads
+[submodule "mods/fluid_lib"]
+	path = mods/fluid_lib
+	url = https://gitlab.icynet.eu/evert/fluid_lib
