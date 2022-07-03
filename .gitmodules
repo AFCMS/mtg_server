@@ -151,3 +151,18 @@
 [submodule "mods/bonemeal"]
 	path = mods/bonemeal
 	url = https://notabug.org/tenplus1/bonemeal
+[submodule "mods/minetest_bedrock2"]
+	path = mods/minetest_bedrock2
+	url = https://repo.or.cz/minetest_bedrock2.git
+[submodule "mods/techpack_stairway"]
+	path = mods/techpack_stairway
+	url = https://github.com/joe7575/techpack_stairway
+[submodule "mods/superpick"]
+	path = mods/superpick
+	url = https://github.com/HybridDog/superpick
+[submodule "mods/gauges"]
+	path = mods/gauges
+	url = https://github.com/minetest-mods/gauges
+[submodule "mods/planet_moon"]
+	path = mods/planet_moon
+	url = https://github.com/pandorabox-io/planet_moon
