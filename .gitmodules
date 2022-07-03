@@ -169,9 +169,6 @@
 [submodule "mods/playtime"]
 	path = mods/playtime
 	url = https://github.com/Lejo1/playtime
-[submodule "mods/wieldview"]
-	path = mods/wieldview
-	url = https://bitbucket.org/sorcerykid/wieldview.git
 [submodule "mods/hbsprint"]
 	path = mods/hbsprint
 	url = https://github.com/minetest-mods/hbsprint
@@ -217,3 +214,39 @@
 [submodule "mods/quartz"]
 	path = mods/quartz
 	url = https://github.com/minetest-mods/quartz
+[submodule "mods/technic_armor"]
+	path = mods/technic_armor
+	url = https://github.com/mt-mods/technic_armor
+[submodule "mods/item_drop"]
+	path = mods/item_drop
+	url = https://github.com/minetest-mods/item_drop
+[submodule "mods/Minetest-WorldEditAdditions"]
+	path = mods/Minetest-WorldEditAdditions
+	url = https://github.com/sbrl/Minetest-WorldEditAdditions
+[submodule "mods/projectile"]
+	path = mods/projectile
+	url = https://github.com/Noodlemire/projectile
+[submodule "mods/hopper"]
+	path = mods/hopper
+	url = https://github.com/minetest-mods/hopper
+[submodule "mods/moarmour"]
+	path = mods/moarmour
+	url = https://github.com/dacmot/moarmour
+[submodule "mods/forceload"]
+	path = mods/forceload
+	url = https://github.com/rubenwardy/forceload/
+[submodule "mods/mobs_redo"]
+	path = mods/mobs_redo
+	url = https://notabug.org/tenplus1/mobs_redo
+[submodule "mods/animalworld"]
+	path = mods/animalworld
+	url = https://github.com/Skandarella/animalworld
+[submodule "mods/mobs_animal"]
+	path = mods/mobs_animal
+	url = https://notabug.org/tenplus1/mobs_animal
+[submodule "mods/mobs_monster"]
+	path = mods/mobs_monster
+	url = https://notabug.org/TenPlus1/mobs_monster
+[submodule "mods/mobs_npc"]
+	path = mods/mobs_npc
+	url = https://notabug.org/TenPlus1/mobs_npc
