@@ -139,3 +139,9 @@
 [submodule "mods/ts_workshop"]
 	path = mods/ts_workshop
 	url = https://github.com/minetest-mods/ts_workshop
+[submodule "mods/farming"]
+	path = mods/farming
+	url = https://notabug.org/tenplus1/farming
+[submodule "mods/farming_nextgen"]
+	path = mods/farming_nextgen
+	url = https://github.com/berengma/farming_nextgen
