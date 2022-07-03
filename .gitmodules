@@ -136,3 +136,6 @@
 [submodule "mods/global_market"]
 	path = mods/global_market
 	url = https://github.com/AFCMS/global_market
+[submodule "mods/ts_workshop"]
+	path = mods/ts_workshop
+	url = https://github.com/minetest-mods/ts_workshop
