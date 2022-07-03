@@ -94,3 +94,33 @@
 [submodule "mods/travelnet"]
 	path = mods/travelnet
 	url = https://github.com/mt-mods/travelnet
+[submodule "mods/spacecannon"]
+	path = mods/spacecannon
+	url = https://github.com/pandorabox-io/spacecannon
+[submodule "mods/digilines"]
+	path = mods/digilines
+	url = https://github.com/minetest-mods/digilines
+[submodule "mods/digistuff"]
+	path = mods/digistuff
+	url = https://cheapiesystems.com/git/digistuff
+[submodule "mods/led_marquee"]
+	path = mods/led_marquee
+	url = https://github.com/mt-mods/led_marquee
+[submodule "mods/digiscreen"]
+	path = mods/digiscreen
+	url = https://cheapiesystems.com/git/digiscreen/
+[submodule "mods/streets"]
+	path = mods/streets
+	url = https://github.com/minetest-mods/streets
+[submodule "mods/void_chest"]
+	path = mods/void_chest
+	url = https://notabug.org/MeseCraft/void_chest
+[submodule "mods/vehicle_mash"]
+	path = mods/vehicle_mash
+	url = https://github.com/minetest-mods/vehicle_mash
+[submodule "mods/lib_mount"]
+	path = mods/lib_mount
+	url = https://github.com/minetest-mods/lib_mount
+[submodule "mods/farming_flood"]
+	path = mods/farming_flood
+	url = https://github.com/AFCMS/farming_flood
