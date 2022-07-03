@@ -1,0 +1,96 @@
+[submodule "mods/i3"]
+	path = mods/i3
+	url = https://github.com/minetest-mods/i3
+[submodule "mods/awards"]
+	path = mods/awards
+	url = https://gitlab.com/rubenwardy/awards
+[submodule "mods/skinsdb"]
+	path = mods/skinsdb
+	url = https://github.com/minetest-mods/skinsdb
+[submodule "mods/technic"]
+	path = mods/technic
+	url = https://github.com/minetest-mods/technic
+[submodule "mods/basic_materials"]
+	path = mods/basic_materials
+	url = https://github.com/mt-mods/basic_materials
+[submodule "mods/pipeworks"]
+	path = mods/pipeworks
+	url = https://github.com/mt-mods/pipeworks
+[submodule "mods/technic_hv_extend"]
+	path = mods/technic_hv_extend
+	url = https://github.com/Emojigit/technic_hv_extend
+[submodule "mods/moreblocks"]
+	path = mods/moreblocks
+	url = https://github.com/minetest-mods/moreblocks
+[submodule "mods/Minetest-WorldEdit"]
+	path = mods/Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit
+[submodule "mods/mobkit"]
+	path = mods/mobkit
+	url = https://github.com/TheTermos/mobkit
+[submodule "mods/Biofuel"]
+	path = mods/Biofuel
+	url = https://github.com/Lokrates/Biofuel
+[submodule "mods/automobiles_pck"]
+	path = mods/automobiles_pck
+	url = https://github.com/APercy/automobiles_pck
+[submodule "mods/motorboat"]
+	path = mods/motorboat
+	url = https://github.com/APercy/motorboat
+[submodule "mods/nautilus"]
+	path = mods/nautilus
+	url = https://github.com/APercy/nautilus
+[submodule "mods/hidroplane"]
+	path = mods/hidroplane
+	url = https://github.com/APercy/hidroplane
+[submodule "mods/airutils"]
+	path = mods/airutils
+	url = https://github.com/APercy/airutils
+[submodule "mods/ju52"]
+	path = mods/ju52
+	url = https://github.com/APercy/ju52
+[submodule "mods/pa28"]
+	path = mods/pa28
+	url = https://github.com/APercy/pa28
+[submodule "mods/supercub"]
+	path = mods/supercub
+	url = https://github.com/APercy/supercub
+[submodule "mods/digtron"]
+	path = mods/digtron
+	url = https://github.com/minetest-mods/digtron
+[submodule "mods/enderpearl"]
+	path = mods/enderpearl
+	url = https://gitlab.com/zughy-friends-minetest/enderpearl
+[submodule "mods/tnt_revamped"]
+	path = mods/tnt_revamped
+	url = https://gitlab.com/Coder12a/tnt_revamped
+[submodule "mods/drawers"]
+	path = mods/drawers
+	url = https://github.com/minetest-mods/drawers
+[submodule "mods/moreores"]
+	path = mods/moreores
+	url = https://github.com/minetest-mods/moreores
+[submodule "mods/mesecons"]
+	path = mods/mesecons
+	url = https://github.com/minetest-mods/mesecons
+[submodule "mods/advtrains"]
+	path = mods/advtrains
+	url = https://git.bananach.space/advtrains.git
+[submodule "mods/basic_trains"]
+	path = mods/basic_trains
+	url = https://git.bananach.space/basic_trains.git/
+[submodule "mods/dlxtrains_modpack"]
+	path = mods/dlxtrains_modpack
+	url = https://github.com/Marnack/dlxtrains_modpack
+[submodule "mods/moretrains"]
+	path = mods/moretrains
+	url = https://git.bananach.space/moretrains.git/
+[submodule "mods/3d_armor"]
+	path = mods/3d_armor
+	url = https://github.com/minetest-mods/3d_armor
+[submodule "mods/overpowered"]
+	path = mods/overpowered
+	url = https://github.com/AidanLCB/overpowered
+[submodule "mods/travelnet"]
+	path = mods/travelnet
+	url = https://github.com/mt-mods/travelnet

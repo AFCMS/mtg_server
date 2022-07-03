@@ -1,1 +1,1 @@
-# mtg_server
+# Minetest Game Server
