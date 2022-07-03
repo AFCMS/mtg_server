@@ -127,3 +127,12 @@
 [submodule "mods/torch_bomb"]
 	path = mods/torch_bomb
 	url = https://github.com/minetest-mods/torch_bomb
+[submodule "mods/protector"]
+	path = mods/protector
+	url = https://notabug.org/tenplus1/protector
+[submodule "mods/commoditymarket"]
+	path = mods/commoditymarket
+	url = https://github.com/minetest-mods/commoditymarket
+[submodule "mods/global_market"]
+	path = mods/global_market
+	url = https://github.com/AFCMS/global_market
