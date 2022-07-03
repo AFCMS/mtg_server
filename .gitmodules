@@ -124,3 +124,6 @@
 [submodule "mods/farming_flood"]
 	path = mods/farming_flood
 	url = https://github.com/AFCMS/farming_flood
+[submodule "mods/torch_bomb"]
+	path = mods/torch_bomb
+	url = https://github.com/minetest-mods/torch_bomb
