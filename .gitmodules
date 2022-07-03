@@ -253,3 +253,6 @@
 [submodule "mods/microexpansion"]
 	path = mods/microexpansion
 	url = https://github.com/theFox6/microexpansion
+[submodule "mods/commoditymarket_fantasy"]
+	path = mods/commoditymarket_fantasy
+	url = https://github.com/minetest-mods/commoditymarket_fantasy
