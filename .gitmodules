@@ -256,3 +256,6 @@
 [submodule "mods/commoditymarket_fantasy"]
 	path = mods/commoditymarket_fantasy
 	url = https://github.com/minetest-mods/commoditymarket_fantasy
+[submodule "mods/display_modpack"]
+	path = mods/display_modpack
+	url = https://github.com/pyrollo/display_modpack
