@@ -250,3 +250,6 @@
 [submodule "mods/mobs_npc"]
 	path = mods/mobs_npc
 	url = https://notabug.org/TenPlus1/mobs_npc
+[submodule "mods/microexpansion"]
+	path = mods/microexpansion
+	url = https://github.com/theFox6/microexpansion
