@@ -2,4 +2,7 @@ minetest
 minetest_game
 maps/survival/*
 !maps/survival/.gitignore
-!maps/survival/.world.mt
+!maps/survival/world.mt
+maps/pvp/*
+!maps/pvp/.gitignore
+!maps/pvp/world.mt

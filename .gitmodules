@@ -271,3 +271,6 @@
 [submodule "mods/fluid_lib"]
 	path = mods/fluid_lib
 	url = https://gitlab.icynet.eu/evert/fluid_lib
+[submodule "mods/sprint"]
+	path = mods/sprint
+	url = https://github.com/GunshipPenguin/sprint.git
