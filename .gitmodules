@@ -274,3 +274,12 @@
 [submodule "mods/sprint"]
 	path = mods/sprint
 	url = https://github.com/GunshipPenguin/sprint.git
+[submodule "mods/minetest-micupack"]
+	path = mods/minetest-micupack
+	url = https://github.com/realmicu/minetest-micupack.git
+[submodule "mods/techpack"]
+	path = mods/techpack
+	url = https://github.com/joe7575/techpack
+[submodule "mods/tubelib2"]
+	path = mods/tubelib2
+	url = https://github.com/joe7575/tubelib2
