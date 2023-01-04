@@ -1,3 +1,3 @@
 # Minetest Game Server
 
-This is the modpack I use in my private SMP
+This is the Minetest Game modpack I use in my private SMP
