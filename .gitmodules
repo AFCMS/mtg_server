@@ -271,9 +271,6 @@
 [submodule "mods/fluid_lib"]
 	path = mods/fluid_lib
 	url = https://gitlab.icynet.eu/evert/fluid_lib
-[submodule "mods/sprint"]
-	path = mods/sprint
-	url = https://github.com/GunshipPenguin/sprint.git
 [submodule "mods/minetest-micupack"]
 	path = mods/minetest-micupack
 	url = https://github.com/realmicu/minetest-micupack.git
@@ -283,3 +280,9 @@
 [submodule "mods/tubelib2"]
 	path = mods/tubelib2
 	url = https://github.com/joe7575/tubelib2
+[submodule "mods/fishing_boat"]
+	path = mods/fishing_boat
+	url = https://github.com/APercy/fishing_boat
+[submodule "mods/minekart"]
+	path = mods/minekart
+	url = https://github.com/APercy/minekart

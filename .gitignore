@@ -6,3 +6,5 @@ maps/survival/*
 maps/pvp/*
 !maps/pvp/.gitignore
 !maps/pvp/world.mt
+maps_backup/*
+!maps_backup/.gitignore
