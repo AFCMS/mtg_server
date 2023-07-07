@@ -286,3 +286,6 @@
 [submodule "mods/minekart"]
 	path = mods/minekart
 	url = https://github.com/APercy/minekart
+[submodule "mods/mapserver_mod"]
+	path = mods/mapserver_mod
+	url = https://github.com/minetest-mapserver/mapserver_mod
