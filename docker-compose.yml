@@ -11,6 +11,7 @@ services:
       - ./maps/survival:/root/.minetest/worlds/world
       - ./mods:/root/.minetest/worlds/world/worldmods:ro
       - ./config/survival.conf:/etc/minetest/minetest.conf:ro
+      # - ./config/mapserver.json:/root/.minetest/worlds/world/mapserver.json:ro
     ports:
       - "30001:30001/udp"
       - "30001:30001/tcp"
@@ -27,3 +28,20 @@ services:
     ports:
       - "30002:30002/udp"
       - "30002:30002/tcp"
+  mapserver_survival:
+    image: minetestmapserver/mapserver:4.7.0
+    restart: always
+    networks:
+      - default
+    depends_on:
+      - "server_survival"
+    volumes:
+      - "./maps/survival:/minetest"
+    working_dir: "/minetest"
+    expose:
+      - "8080:8080"
+    ports:
+      - "8080:8080"
+    logging:
+      options:
+        max-size: 50m
