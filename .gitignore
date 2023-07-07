@@ -1,5 +1,3 @@
-minetest
-minetest_game
 maps/survival/*
 !maps/survival/.gitignore
 !maps/survival/world.mt
