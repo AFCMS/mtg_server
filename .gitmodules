@@ -111,7 +111,7 @@
 	url = https://cheapiesystems.com/git/digiscreen/
 [submodule "mods/void_chest"]
 	path = mods/void_chest
-	url = https://notabug.org/MeseCraft/void_chest
+	url = https://github.com/MeseCraft/void_chest
 [submodule "mods/vehicle_mash"]
 	path = mods/vehicle_mash
 	url = https://github.com/minetest-mods/vehicle_mash
