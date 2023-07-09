@@ -288,4 +288,4 @@
 	url = https://github.com/minetest-mapserver/mapserver_mod
 [submodule "mods/sprint"]
 	path = mods/sprint
-	url = https://github.com/GunshipPenguin/sprint
+	url = https://github.com/AFCMS/sprint
