@@ -166,9 +166,6 @@
 [submodule "mods/playtime"]
 	path = mods/playtime
 	url = https://github.com/Lejo1/playtime
-[submodule "mods/hbsprint"]
-	path = mods/hbsprint
-	url = https://github.com/minetest-mods/hbsprint
 [submodule "mods/fancy_vend"]
 	path = mods/fancy_vend
 	url = https://github.com/ChimneySwift/fancy_vend
@@ -289,3 +286,6 @@
 [submodule "mods/mapserver_mod"]
 	path = mods/mapserver_mod
 	url = https://github.com/minetest-mapserver/mapserver_mod
+[submodule "mods/sprint"]
+	path = mods/sprint
+	url = https://github.com/GunshipPenguin/sprint
