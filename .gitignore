@@ -6,3 +6,4 @@ maps/pvp/*
 !maps/pvp/world.mt
 maps_backup/*
 !maps_backup/.gitignore
+.vscode

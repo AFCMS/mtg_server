@@ -1,0 +1,46 @@
+{
+    "port": 8080,
+    "enableprometheus": false,
+    "enablerendering": true,
+    "webdev": false,
+    "webapi": {
+        "enablemapblock": false,
+        "secretkey": "myserverkey"
+    },
+    "layers": [
+        {
+            "id": 0,
+            "name": "Base",
+            "to": 160,
+            "from": -16
+        }
+    ],
+    "renderingfetchlimit": 1000,
+    "renderingjobs": 2,
+    "renderingqueue": 100,
+    "incrementalrenderingtimer": "5s",
+    "mapobjects": {
+        "bones": true,
+        "protector": true,
+        "technic": true,
+        "luacontroller": true,
+        "digiterms": true,
+        "digilines": true,
+        "travelnet": true,
+        "mapserver": true,
+        "mission": true,
+        "jumpdrive": true,
+        "smartshop": true,
+        "fancyvend": true,
+        "atm": true
+    },
+    "mapblockaccessor": {
+        "expiretime": "10s",
+        "purgetime": "15s",
+        "maxitems": 5000
+    },
+    "skins": {
+        "enableskinsdb": false,
+        "skinspath": "/path/to/minetest/mods/skinsdb/textures"
+    }
+}
