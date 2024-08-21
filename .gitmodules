@@ -289,3 +289,12 @@
 [submodule "mods/sprint"]
 	path = mods/sprint
 	url = https://github.com/AFCMS/sprint
+[submodule "mods/morelights"]
+	path = mods/morelights
+	url = https://github.com/random-geek/morelights
+[submodule "mods/mese_trains"]
+	path = mods/mese_trains
+	url = https://gitlab.com/xenonca/mese_trains
+[submodule "games/minetest_game"]
+	path = games/minetest_game
+	url = https://github.com/minetest/minetest_game

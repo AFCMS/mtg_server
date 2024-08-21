@@ -1,36 +1,37 @@
 ---
-version: "2"
 services:
   server_survival:
-    image: registry.gitlab.com/minetest/minetest/server:5.7.0
+    image: ghcr.io/minetest/minetest:5.9.0
     user: root
-    restart: always
+    restart: unless-stopped
     networks:
       - default
     volumes:
       - ./maps/survival:/root/.minetest/worlds/world
       - ./mods:/root/.minetest/worlds/world/worldmods:ro
+      - ./games:/root/.minetest/games:ro
       - ./config/survival.conf:/etc/minetest/minetest.conf:ro
       # - ./config/mapserver.json:/root/.minetest/worlds/world/mapserver.json:ro
     ports:
       - "30001:30001/udp"
       - "30001:30001/tcp"
   server_pvp:
-    image: registry.gitlab.com/minetest/minetest/server:5.7.0
+    image: ghcr.io/minetest/minetest:5.9.0
     user: root
-    restart: always
+    restart: unless-stopped
     networks:
       - default
     volumes:
       - ./maps/pvp:/root/.minetest/worlds/world
       - ./mods:/root/.minetest/worlds/world/worldmods:ro
+      - ./games:/root/.minetest/games:ro
       - ./config/pvp.conf:/etc/minetest/minetest.conf:ro
     ports:
       - "30002:30002/udp"
       - "30002:30002/tcp"
   mapserver_survival:
-    image: minetestmapserver/mapserver:4.7.0
-    restart: always
+    image: minetestmapserver/mapserver:4.8.0
+    restart: unless-stopped
     networks:
       - default
     depends_on:
