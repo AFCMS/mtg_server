@@ -15,13 +15,13 @@ git submodule update --init --recursive
 Install Docker and Docker Compose, then run:
 
 ```bash
-docker-compose up server_survival
+docker compose up server_survival mapserver_survival
 ```
 
 or
 
 ```bash
-docker-compose up server_pvp
+docker compose up server_pvp
 ```
 
 Make a maps backup:
